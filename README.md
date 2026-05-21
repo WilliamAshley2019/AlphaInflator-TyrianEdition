@@ -1,3 +1,21 @@
+--------------------------------------------------------------------------------------------------
+Copyright (c) 2026 William Ashley d/b/a William Ashley Music ( http://WilliamAshley.music )
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License  (v3) 
+
+This program is distributed in the hope that it will be useful to other audio programmers and music makers in their own plugin designs.
+There is no WARRANTY expressed or implied including for MERCHANTABILITY or FITNESS FOR ANY PURPOSE. 
+See the GNU General Public License for more details.
+
+Attributtion is requested where possible if you use or modify any of the source,
+Notice of use is requested so I can familiarize myself with how the code has been adapted for personal interest.
+contact@WilliamAshley.music   
+-----------------------------------------------------------------------------------------------------
+
+
+TO DO - merge all inflator plugins to a common repository folder
+
+
 Still testing this.. GUI still a little buggy but the colour scheme is a little closer to what I was going for.  Some overlap still. Sound still has limits but its sort of predictable,
 I should probably extend the range of +/- on this especially for input / output and the limiter itself. 
 
